@@ -1,0 +1,1 @@
+export const selectDataForTable = state => state.table.dataForTable;
